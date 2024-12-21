@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Welcome to Jyun-you Liou's Lab
 ---
 
 # Welcome to Jyun-you Liou's Lab
