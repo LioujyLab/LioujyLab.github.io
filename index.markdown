@@ -18,7 +18,6 @@ At Jyun-you Liou's Lab, we are dedicated to understanding the brain's activity u
 ## Key Research Areas
 
 ### Neural Traces Under Anesthesia
-![Anesthetic Research](path/to/research-image.jpg)
 We investigate how neural circuits are altered during anesthesia using state-of-the-art imaging technologies.
 
 ### Computational Modeling
