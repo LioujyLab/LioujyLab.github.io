@@ -27,4 +27,4 @@ Our lab develops models to simulate and analyze brain activity, bridging the gap
 ---
 
 ## Get Involved
-Want to collaborate or learn more about our lab? [Contact Us](/contact/)!
+Want to collaborate or learn more about our lab? Contact Us at lioujy.lab@gmail.com !
