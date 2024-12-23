@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# Welcome to Jyun-you Liou's Lab
 Exploring neural traces under various anesthetics.
 
 ![Lab Image](jpgs/labImage2024.jpg)
