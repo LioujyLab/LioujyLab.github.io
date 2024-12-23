@@ -22,7 +22,9 @@ title: Jyun-you Liou's Lab
 email: lioujy.lab@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Official Webpage for Jyun-you Liou's Lab, Anesthesilology, Weill Cornell Medicine.
-  We are now welcoming Visiting Scholars and PostDocs.   
+  We are now welcoming Visiting Scholars, PostDocs, and any form of collaboration or support. 
+  Whether you’re interested in joining our team, sharing ideas, or contributing to our research, 
+  we’d love to hear from you!   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://LioujyLab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: LioujyLab
