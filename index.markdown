@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Exploring neural traces under various anesthetics.
+## Exploring neural traces under various anesthetics.
 
 ![Lab Image](jpgs/labImage2024.jpg)
 
