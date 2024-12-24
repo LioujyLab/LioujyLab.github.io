@@ -3,8 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: home
 ---
-# Home
+
+
+
 ## Exploring neural traces under various anesthetics.
 
 ![Lab Image](jpgs/labImage2024.jpg)
