@@ -10,3 +10,7 @@ permalink: /research/
 
 ![wsq](jpgs/2024_Poster_wsq.jpg)  
 *Shiqiang Wu, et al.*  
+
+## ResearchExpo 2023 at Anesthesiology, Weill Cornell Medicine
+![adi](jpgs/2023_Poster_adi.jpg)  
+*Aditya lyer, et al.*  
