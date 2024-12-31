@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Welcom to LioujyLab
+title: Welcome to the Liou Lab
 ---
 
 
@@ -28,4 +28,4 @@ Our lab develops models to simulate and analyze brain activity, bridging the gap
 ---
 
 ## Get Involved
-Want to collaborate or learn more about our lab? Contact Us at lioujy.lab@gmail.com !
+Want to collaborate or learn more about our lab? Contact Us at lioujy.lab@gmail.com!
