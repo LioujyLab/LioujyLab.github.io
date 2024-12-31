@@ -25,3 +25,6 @@ Dr. Liou is originally from Taiwan. He received his medical degree from National
 Shiqiang Wu is a Visiting Fellow in WCM. Dr. Wu received both his MD and bachelor's degree from Hua Zhong University of Science and Technology. He is an attending neurosurgeon in Tongji Hospital, Tongji Medical College at Hua Zhong University of Science and Technology. His basic scientific research focuses on using custom-built widefield imaging systems, two-photon methods and ECOG to understand the roles of different cell types in epilepsy and anesthetic state. Clinically, he primarily focuses on the preoperative evaluation and surgery for patients with epilepsy. 
 
 # Computational Scientist and Data Analyst, Tech Guru Qianwei Zhou
+
+![Jyun-you Liou](jpgs/qiz1.jpg)
+*Dr. Qianwei Zhou, PhD, Computational Analyst*
