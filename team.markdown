@@ -5,7 +5,7 @@ permalink: /team/
 ---
 # The Principal Investigator: Jyun-you Liou
 
-![Jyun-you Liou](jpgs/LJY.jpg){width=500} 
+![Jyun-you Liou](jpgs/LJY.jpg)
 *Dr. Jyun-you Liou, MD/PhD, Principal Investigator, Clinical Pediatric Anesthesiologist*  
 Email: jyl9010@med.cornell.edu  
 
@@ -17,14 +17,14 @@ Dr. Liou is originally from Taiwan. He received his medical degree from National
 
 # Chief Scientist and Photographer: Aditya Iyer
 
-![Jyun-you Liou](jpgs/adi1.jpg){width=500}  
+![Jyun-you Liou](jpgs/adi1.jpg) 
 *Aditya Iyer, BS, Research Technician*  
 Email: adi4001@med.cornell.edu  
 
 
 # The Visiting Neurosurgeon: Shiqiang Wu
 
-![Jyun-you Liou](jpgs/wsq3.jpg){width=500}   
+![Jyun-you Liou](jpgs/wsq3.jpg)  
 *Dr. Shiqiang Wu, MD, Neurosurgeon*  
 Email: shw4016@med.cornell.edu  
 
@@ -33,7 +33,7 @@ Shiqiang Wu is a Visiting Fellow in WCM. Dr. Wu received both his MD and bachelo
 
 # Computational Scientist and Data Analyst, Tech Guru Qianwei Zhou
 
-![Jyun-you Liou](jpgs/qiz1.jpg){width=500} 
+![Jyun-you Liou](jpgs/qiz1.jpg)
 *Dr. Qianwei Zhou, PhD, Computational Analyst*  
 Email: qiz4008@med.cornell.edu  
 
