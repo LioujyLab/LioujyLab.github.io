@@ -9,6 +9,7 @@ title: Welcome to the Liou Lab
 
 
 ## Exploring neural traces under various anesthetics.
+![Lab Image](jpgs/ch1ch2(RGB).jpg)
 
 ![Lab Image](jpgs/labImage2024.jpg)
 
