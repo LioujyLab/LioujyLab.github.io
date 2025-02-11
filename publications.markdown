@@ -3,9 +3,8 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-
-# Publications 
-## Welcome to Jyun-you Liou's Lab. Our research focuses on exploring neural traces under various anesthetics.  
+# Welcome to Jyun-you Liou's Lab. Our research focuses on exploring neural traces under various anesthetics.  
+# Neuron Science Related Publications 
 - Li J, Yang F, Zhang K, Wu S, Niemeyer J, Zhao M, Luo P, Li N, Li R, Li D, Lin W, Liou JY, Schwartz TH, Ma H. Refining hemodynamic correction in in vivo wide-field fluorescent imaging through linear regression analysis. NeuroImage. 2024;299:120816. Epub 20240830. doi: 10.1016/j.neuroimage.2024.120816. PubMed PMID: 39209071.  
 - Ryu J, Qiang Y, Chen L, Li G, Han X, Woon E, Bai T, Qi Y, Zhang S, Liou JY, Seo KJ, Feng B, Fang H. Multifunctional Nanomesh Enables Cellular-Resolution, Elastic Neuroelectronics. Adv Mater. 2024:e2403141. Epub 20240716. doi: 10.1002/adma.202403141. PubMed PMID: 39011796.  
 - Li J, Yang F, Zhan F, Estin J, Iyer A, Zhao M, Niemeyer JE, Luo P, Li D, Lin W, Liou JY, Ma H, Schwartz TH. Mesoscopic mapping of hemodynamic responses and neuronal activity during pharmacologically induced interictal spikes in awake and anesthetized mice. J Cereb Blood Flow Metab. 2024:271678X241226742. Epub 2024/01/17. doi: 10.1177/0271678X241226742. PubMed PMID: 38230631.  
@@ -29,8 +28,8 @@ permalink: /publications/
 - Kuo SH, Lin CY, Wang J, Liou JY, Pan MK, Louis RJ, Wu WP, Gutierrez J, Louis ED, Faust PL. Deep brain stimulation and climbing fiber synaptic pathology in essential tremor. Ann Neurol. 2016;80(3):461-5. Epub 2016/07/17. doi: 10.1002/ana.24728. PubMed PMID: 27422481; PMCID: PMC5016237. October 2022 10  
 - Liou JY, Mu CF, Hsu CY. Medical appointment no-shows associated with poor glycaemic control among Taiwanese aborigines. Aust J Rural Health. 2012;20(6):312-7. Epub 2012/11/28. doi: 10.1111/j.1440-1584.2012.01310.x. PubMed PMID: 23181815.
 
-## Computer Vision and Artifical Intelligence Related Publications
-(Corresponding Author *)
+## Computer Vision and Artifical Intelligence Related Publications  
+(Corresponding Author *)  
 -	Q. Zhou, M. Zuley, Y. Guo, L. Yang, B. Nair, A. Vargo, S. Ghannam, D. Arefan, and S. Wu*, "A machine and human reader study on AI diagnosis model safety under attacks of adversarial images," Nature Communications, vol. 12, no. 1, pp. 7281-7292, 2021/12/14 2021, doi: 10.1038/s41467-021-27577-x.  
 -	Q. Zhou, C. Zhou, Z. Yang, Y. Xu, and Q. Guan*, "Non-binary IoU and progressive coupling and refining network for salient object detection," Expert Systems with Applications, p. 120370, 2023.  
 -	Q. Zhou, B. Li, P. Tao, Z. Xu, C. Zhou, Y. Wu, and H. Hu*, "Residual-recursive autoencoder for accelerated evolution in savonius wind turbines optimization," Neurocomputing, vol. 500, pp. 909-920, 2022/08/21/ 2022, doi: https://doi.org/10.1016/j.neucom.2022.04.103.  
@@ -49,6 +48,6 @@ permalink: /publications/
 -	Q. Guan, Y. Chen, Z. Wei, A. A. Heidari, H. Hu, X.-H. Yang, J. Zheng, Q. Zhou*, H. Chen*, and F. Chen*, "Medical image augmentation for lesion detection using a texture-constrained multichannel progressive GAN," Computers in Biology and Medicine, vol. 145, p. 105444, 2022.  
 
 ---
-# For more recent Publications, Please move to following links.
+## For more recent Publications, Please move to following links.  
 1. Neuron Science: https://scholar.google.com/citations?hl=zh-CN&user=X0l0I5sAAAAJ  
 2. Computer Science: https://scholar.google.com/citations?user=j8kXnlMAAAAJ&hl=zh-CN  
