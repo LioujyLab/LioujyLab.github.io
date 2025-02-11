@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 # Publications 
-Welcome to Jyun-you Liou's Lab. Our research focuses on exploring neural traces under various anesthetics.  
+## Welcome to Jyun-you Liou's Lab. Our research focuses on exploring neural traces under various anesthetics.  
 - Li J, Yang F, Zhang K, Wu S, Niemeyer J, Zhao M, Luo P, Li N, Li R, Li D, Lin W, Liou JY, Schwartz TH, Ma H. Refining hemodynamic correction in in vivo wide-field fluorescent imaging through linear regression analysis. NeuroImage. 2024;299:120816. Epub 20240830. doi: 10.1016/j.neuroimage.2024.120816. PubMed PMID: 39209071.  
 - Ryu J, Qiang Y, Chen L, Li G, Han X, Woon E, Bai T, Qi Y, Zhang S, Liou JY, Seo KJ, Feng B, Fang H. Multifunctional Nanomesh Enables Cellular-Resolution, Elastic Neuroelectronics. Adv Mater. 2024:e2403141. Epub 20240716. doi: 10.1002/adma.202403141. PubMed PMID: 39011796.  
 - Li J, Yang F, Zhan F, Estin J, Iyer A, Zhao M, Niemeyer JE, Luo P, Li D, Lin W, Liou JY, Ma H, Schwartz TH. Mesoscopic mapping of hemodynamic responses and neuronal activity during pharmacologically induced interictal spikes in awake and anesthetized mice. J Cereb Blood Flow Metab. 2024:271678X241226742. Epub 2024/01/17. doi: 10.1177/0271678X241226742. PubMed PMID: 38230631.  
@@ -27,10 +27,28 @@ Welcome to Jyun-you Liou's Lab. Our research focuses on exploring neural traces 
 - Pan MK, Kuo SH, Tai CH, Liou JY, Pei JC, Chang CY, Wang YM, Liu WC, Wang TR, Lai WS, Kuo CC. Neuronal firing patterns outweigh circuitry oscillations in parkinsonian motor control. The Journal of clinical investigation. 2016;126(12):4516-26. Epub 2016/11/01. doi: 10.1172/JCI88170. PubMed PMID: 27797341; PMCID: PMC5127676.  
 - Lee CJ, Tsao PN, Chen CY, Hsieh WS, Liou JY, Chou HC. Prenatal Therapy Improves the Survival of Premature Infants with Congenital Chylothorax. Pediatr Neonatol. 2016;57(2):127-32. Epub 2015/09/01. doi: 10.1016/j.pedneo.2015.07.001. PubMed PMID: 26315047.  
 - Kuo SH, Lin CY, Wang J, Liou JY, Pan MK, Louis RJ, Wu WP, Gutierrez J, Louis ED, Faust PL. Deep brain stimulation and climbing fiber synaptic pathology in essential tremor. Ann Neurol. 2016;80(3):461-5. Epub 2016/07/17. doi: 10.1002/ana.24728. PubMed PMID: 27422481; PMCID: PMC5016237. October 2022 10  
-- Liou JY, Mu CF, Hsu CY. Medical appointment no-shows associated with poor glycaemic control among Taiwanese aborigines. Aust J Rural Health. 2012;20(6):312-7. Epub 2012/11/28. doi: 10.1111/j.1440-1584.2012.01310.x. PubMed PMID: 23181815.  
+- Liou JY, Mu CF, Hsu CY. Medical appointment no-shows associated with poor glycaemic control among Taiwanese aborigines. Aust J Rural Health. 2012;20(6):312-7. Epub 2012/11/28. doi: 10.1111/j.1440-1584.2012.01310.x. PubMed PMID: 23181815.
+
+## Computer Vision and Artifical Intelligence Related Publications
+(Corresponding Author *)
+-	Q. Zhou, M. Zuley, Y. Guo, L. Yang, B. Nair, A. Vargo, S. Ghannam, D. Arefan, and S. Wu*, "A machine and human reader study on AI diagnosis model safety under attacks of adversarial images," Nature Communications, vol. 12, no. 1, pp. 7281-7292, 2021/12/14 2021, doi: 10.1038/s41467-021-27577-x.  
+-	Q. Zhou, C. Zhou, Z. Yang, Y. Xu, and Q. Guan*, "Non-binary IoU and progressive coupling and refining network for salient object detection," Expert Systems with Applications, p. 120370, 2023.  
+-	Q. Zhou, B. Li, P. Tao, Z. Xu, C. Zhou, Y. Wu, and H. Hu*, "Residual-recursive autoencoder for accelerated evolution in savonius wind turbines optimization," Neurocomputing, vol. 500, pp. 909-920, 2022/08/21/ 2022, doi: https://doi.org/10.1016/j.neucom.2022.04.103.  
+-	Q. Zhou, Y. Liu, H. Hu, Q. Guan, Y. Guo, and F. Zhang*, "Unsupervised Multimodal MR Images Synthesizer Using Knowledge From Higher Dimension," in 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2021: IEEE, pp. 1633-1636.  
+-	Q. Zhou, Y. Chen, B. Li, X. Li, C. Zhou, J. Huang, and H. Hu*, "Training Deep Neural Networks for Wireless Sensor Networks Using Loosely and Weakly Labeled Images," Neurocomputing, vol. 472, no. 2021, pp. 1-11, 2021.  
+-	Q. Zhou, G. Yuan, L. Yang, G. Nebbia, S. Wu*, "Are Your AI Diagnoisi Models Safe Under Attack of Manipulated Images?", Radiological Society of North America 2019 Scientific Assembly and Annual Meeting (RSNA2019, Oral), December 1 - December 6, 2019, Chicago IL. archive.rsna.org/2019/19017802.html Accessed January 2, 2020.  
+-	Q. Zhou*, Z. Xu, S. Cheng, Y. Huang, and J. Xiao, "Innovative Savonius rotors evolved by genetic algorithm based on 2D-DCT encoding," SOFT COMPUTING, journal article vol. 22, no. 23, p. 10, May 05 2018.  
+-	Q. Zhou*, B. Li, H. Liu, S. Chen, and J. Huang, "Microphone-Based Vibration Sensor for UGS Applications", IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS, vol. 64, no. 8, pp. 6565-6572, 0314 2017. http://blog.csdn.net/huntstart/article/details/56509635.  
+-	Q. Zhou*, B. Li, Z. Kuang, D. Xie, G. Tong, L. Hu and X. Yuan, "A quarter-car vehicle model based feature for wheeled and tracked vehicles classification", JOURNAL OF SOUND AND VIBRATION, VOL. 332, ISSUE 26, pp. 7279-7289, DECEMBER 2013.  
+-	Q. Zhou*, G. Tong, D. Xie, B. Li and X. Yuan, "A Seismic-Based Feature Extraction Algorithm for Robust Ground Target Classification", IEEE SIGNAL PROCESSING LETTERS, VOL. 19, NO. 10, pp. 639-642, OCTOBER 2012.  
+-	Q. Zhou*, G. Tong, B. Li and X. Yuan, "A Practicable Method for Ferromagnetic Object Moving Direction Identification", IEEE TRANSACTIONS ON MAGNETICS, VOL. 48, NO. 8, pp. 2340-2345, AUGUST 2012.  
+-	H. Hu, A. Liu, Q. Guan, H. QIan, X. Li, S. Chen, and Q. Zhou*, "Adaptively Customizing Activation Functions for Various Layers," IEEE Transactions on Neural Networks and Learning Systems, vol. Online, no. Online, pp. 1-12, 2022, doi: 10.1109/TNNLS.2021.3133263.  
+-	H. Hu, L. Shen, Q. Guan, X. Li, Q. Zhou*, and S. Ruan*, "Deep co-supervision and attention fusion strategy for automatic COVID-19 lung infection segmentation on CT images," Pattern Recognition, vol. 124, p. 108452, 2022/04/01/ 2022, doi: https://doi.org/10.1016/j.patcog.2021.108452.  
+-	H. Hu, C. Luo, Q. Guan, X. Li, S. Chen, and Q. Zhou*, "A fast online multivariable identification method for greenhouse environment control problems," NEUROCOMPUTING, vol. 312, pp. 63-73, 2018.  
+-	K. Hu, L. Zhao, S. Feng, S. Zhang, Q. Zhou*, X. Gao, and Y. Guo, "Colorectal polyp region extraction using saliency detection network with neutrosophic enhancement," Computers in Biology and Medicine, p. 105760, 2022/06/23/ 2022, doi: https://doi.org/10.1016/j.compbiomed.2022.105760.  
+-	Q. Guan, Y. Chen, Z. Wei, A. A. Heidari, H. Hu, X.-H. Yang, J. Zheng, Q. Zhou*, H. Chen*, and F. Chen*, "Medical image augmentation for lesion detection using a texture-constrained multichannel progressive GAN," Computers in Biology and Medicine, vol. 145, p. 105444, 2022.  
+
 ---
-
-
-
-
----
+# For more recent Publications, Please move to following links.
+1. Neuron Science: https://scholar.google.com/citations?hl=zh-CN&user=X0l0I5sAAAAJ  
+2. Computer Science: https://scholar.google.com/citations?user=j8kXnlMAAAAJ&hl=zh-CN  
