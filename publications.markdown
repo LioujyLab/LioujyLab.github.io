@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 # Welcome to Jyun-you Liou's Lab. Our research focuses on exploring neural traces under various anesthetics.  
-# Neuron Science Related Publications 
+# Neuroscience Related Publications 
 - Li J, Yang F, Zhang K, Wu S, Niemeyer J, Zhao M, Luo P, Li N, Li R, Li D, Lin W, Liou JY, Schwartz TH, Ma H. Refining hemodynamic correction in in vivo wide-field fluorescent imaging through linear regression analysis. NeuroImage. 2024;299:120816. Epub 20240830. doi: 10.1016/j.neuroimage.2024.120816. PubMed PMID: 39209071.  
 - Ryu J, Qiang Y, Chen L, Li G, Han X, Woon E, Bai T, Qi Y, Zhang S, Liou JY, Seo KJ, Feng B, Fang H. Multifunctional Nanomesh Enables Cellular-Resolution, Elastic Neuroelectronics. Adv Mater. 2024:e2403141. Epub 20240716. doi: 10.1002/adma.202403141. PubMed PMID: 39011796.  
 - Li J, Yang F, Zhan F, Estin J, Iyer A, Zhao M, Niemeyer JE, Luo P, Li D, Lin W, Liou JY, Ma H, Schwartz TH. Mesoscopic mapping of hemodynamic responses and neuronal activity during pharmacologically induced interictal spikes in awake and anesthetized mice. J Cereb Blood Flow Metab. 2024:271678X241226742. Epub 2024/01/17. doi: 10.1177/0271678X241226742. PubMed PMID: 38230631.  
@@ -49,5 +49,5 @@ permalink: /publications/
 
 ---
 ## For more recent Publications, Please move to following links.  
-1. Neuron Science: https://scholar.google.com/citations?hl=zh-CN&user=X0l0I5sAAAAJ  
+1. Neuroscience: https://scholar.google.com/citations?hl=zh-CN&user=X0l0I5sAAAAJ  
 2. Computer Science: https://scholar.google.com/citations?user=j8kXnlMAAAAJ&hl=zh-CN  
