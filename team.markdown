@@ -7,7 +7,7 @@ permalink: /team/
 
 <!-- ![Jyun-you Liou](jpgs/LJY.jpg) -->
 <div style="width: 100px; height: 100px; overflow: hidden;">
-  <img src="jpgs/LJY.jpg" alt="Jyun-you Liou" style="width: 200px; margin-top: -300px;">
+  <img src="jpgs/LJY.jpg" alt="Jyun-you Liou" style="width: 200px; margin-top: -1000px;">
 </div>
 *Dr. Jyun-you Liou, MD/PhD, Principal Investigator, Clinical Pediatric Anesthesiologist*  
 Email: jyl9010@med.cornell.edu  
