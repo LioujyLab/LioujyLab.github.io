@@ -3,25 +3,12 @@ layout: page
 title: Team
 permalink: /team/
 ---
-# The Principal Investigator: Jyun-you Liou
 
-|**The Principal Investigator: Jyun-you Liou** <br> <img src="jpgs/LJY.jpg" width="200">  | Dr. Jyun-you Liou, MD/PhD, Principal Investigator, Clinical Pediatric Anesthesiologist <br> Email: jyl9010@med.cornell.edu <br> Dr. Jyun-you Liou is dedicated to unraveling the complexities of neural activity under different anesthetic states. His groundbreaking work combines advanced imaging techniques with computational modeling to advance our understanding of the brain during anesthesia. <br> Dr. Liou is originally from Taiwan. He received his medical degree from National Taiwan University and completed his pediatric residency at National Taiwan University Children’s Hospital. Dr. Liou then moved to the US and earned his doctorate in neurophysiology from Columbia University. He then completed his anesthesiology residency at NewYork-Presbyterian/Weill Cornell Medical Center and his pediatric anesthesiology fellowship at the University of Washington/Seattle Children’s Hospital.  |
-|--------------------------------------|------------------------------------------------------------------|
-
+|:---------------------------------------------|:------------------------------------------------------------------|
+|**The Principal Investigator: Jyun-you Liou** <br> <img src="jpgs/LJY.jpg" width="300">  | Dr. Jyun-you Liou, MD/PhD, Principal Investigator, Clinical Pediatric Anesthesiologist <br> Email: jyl9010@med.cornell.edu <br> Dr. Jyun-you Liou is dedicated to unraveling the complexities of neural activity under different anesthetic states. His groundbreaking work combines advanced imaging techniques with computational modeling to advance our understanding of the brain during anesthesia. <br> Dr. Liou is originally from Taiwan. He received his medical degree from National Taiwan University and completed his pediatric residency at National Taiwan University Children’s Hospital. Dr. Liou then moved to the US and earned his doctorate in neurophysiology from Columbia University. He then completed his anesthesiology residency at NewYork-Presbyterian/Weill Cornell Medical Center and his pediatric anesthesiology fellowship at the University of Washington/Seattle Children’s Hospital.  |
 
 
 
-
-
-<!-- ![Jyun-you Liou](jpgs/LJY.jpg) -->
-
-<img src="jpgs/LJY.jpg" alt="Jyun-you Liou" width="300" style="float: left; margin-right: 10px;">
-<p>
-Dr. Jyun-you Liou, MD/PhD, Principal Investigator, Clinical Pediatric Anesthesiologist  
-Email: jyl9010@med.cornell.edu  
-Dr. Jyun-you Liou is dedicated to unraveling the complexities of neural activity under different anesthetic states. His groundbreaking work combines advanced imaging techniques with computational modeling to advance our understanding of the brain during anesthesia.  
-Dr. Liou is originally from Taiwan. He received his medical degree from National Taiwan University and completed his pediatric residency at National Taiwan University Children’s Hospital. Dr. Liou then moved to the US and earned his doctorate in neurophysiology from Columbia University. He then completed his anesthesiology residency at NewYork-Presbyterian/Weill Cornell Medical Center and his pediatric anesthesiology fellowship at the University of Washington/Seattle Children’s Hospital.  
-</p>
 
 
 ------------------
