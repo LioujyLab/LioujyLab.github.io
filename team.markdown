@@ -6,8 +6,8 @@ permalink: /team/
 # The Principal Investigator: Jyun-you Liou
 
 <!-- ![Jyun-you Liou](jpgs/LJY.jpg) -->
-<div style="width: 150px; height: 100px; overflow: hidden;">
-  <img src="jpgs/LJY.jpg" alt="Jyun-you Liou" style="width: 150px; margin-top: -50px;">
+<div style="width: 100px; height: 100px; overflow: hidden;">
+  <img src="jpgs/LJY.jpg" alt="Jyun-you Liou" style="width: 100px; margin-top: -50px;">
 </div>
 *Dr. Jyun-you Liou, MD/PhD, Principal Investigator, Clinical Pediatric Anesthesiologist*  
 Email: jyl9010@med.cornell.edu  
