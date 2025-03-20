@@ -6,7 +6,7 @@ permalink: /team/
 # The Principal Investigator: Jyun-you Liou
 
 <!-- ![Jyun-you Liou](jpgs/LJY.jpg) -->
-<div style="width: 300px; height: 200px; overflow: hidden;">
+<div style="width: 150px; height: 100px; overflow: hidden;">
   <img src="jpgs/LJY.jpg" alt="Jyun-you Liou" style="width: 400px; margin-top: -50px;">
 </div>
 *Dr. Jyun-you Liou, MD/PhD, Principal Investigator, Clinical Pediatric Anesthesiologist*  
