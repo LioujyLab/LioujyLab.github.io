@@ -13,7 +13,7 @@ title: Welcome to the Liou Lab
 
 ![Lab Image](jpgs/labImage2024.jpg)
 
-![Lab Image](jpgs/ECoG-2p.jpg)
+![Lab Image](jpgs/ECoG-2p-2.jpg)
 
 <div style="display: flex; gap: 60px; align-items: center;">
 
