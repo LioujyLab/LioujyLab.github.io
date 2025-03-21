@@ -9,9 +9,11 @@ title: Welcome to the Liou Lab
 
 
 ## Exploring neural traces under various anesthetics.
-![Lab Image](jpgs/ch1ch2(RGB).jpg)
+
 
 ![Lab Image](jpgs/labImage2024.jpg)
+
+![Lab Image](jpgs/ECoG-2p-3p.jpg)
 
 ## Our Mission
 At Jyun-you Liou's Lab, we are dedicated to understanding the brain's activity under anesthesia. Our interdisciplinary research combines cutting-edge imaging, computational modeling, and neuroscience to make impactful discoveries.
