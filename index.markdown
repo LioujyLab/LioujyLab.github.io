@@ -15,7 +15,7 @@ title: Welcome to the Liou Lab
 
 ![Lab Image](jpgs/ECoG-2p-2.jpg)
 
-<div style="display: flex; gap: 60px; align-items: center;">
+<div style="display: flex; gap: 60px; align-items: center; justify-content: center;">
 
   <img src="/jpgs/ch1ch2(RGB).jpg" alt="Sample Image" style="width: 300px; height: auto;">
 
