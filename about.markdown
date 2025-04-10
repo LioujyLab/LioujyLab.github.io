@@ -3,49 +3,36 @@ layout: page
 title: About
 permalink: /about/
 ---
-# About Us
+# Welcome to the Liou Lab: Exploring the Frontiers of Brain Activity!  
 
-The Liou lab is interested in the mechanisms of anesthetic-induced brain activity to search for novel applications of anesthetics in diagnosing and managing neuropsychiatric disorders. Our approach includes electrophysiological, optical, and computational modeling approaches. The lab uses transgenic mice as the main model organism, approached by widefield calcium imaging, multiphoton microscopy, and in vivo extracellular electrophysiology. Meanwhile, we are part of an extensive human intracranial EEG collaboration network. Currently, our lab has the following two major research directions.
-
-## Anesthesia, Consciousness, and Sleep: Exploring Brain States
-
-How do general anesthesia and natural sleep resemble and differ from one another? Both states are characterized by significant shifts in brain activity, including slow waves—patterns of synchronized activity across neurons that dominate during deep sleep and some stages of anesthesia. Slow waves play a crucial role in recalibrating brain activity and maintaining a balance between excitatory and inhibitory signals (E/I balance) necessary for healthy brain function.
-
-In this research direction, we address questions such as:
+At the Liou Lab, we’re passionate about exploring how anesthesia affects the brain. Our ultimate goal? To uncover new ways to use anesthetics in diagnosing and treating conditions like sleep disorders, epilepsy, and other neuropsychiatric challenges.  
 
 
-I.  How do the firing patterns of cortical neurons during anesthetic-induced slow waves compare to those during natural sleep?
+## How We Work  
 
-II.  What role do these waves play in restoring brain network stability and functionality?
+We use a combination of cutting-edge techniques to study the brain. Our toolkit includes:  
+•	Electrophysiology: Recording the brain’s electrical signals to understand how neurons communicate.  
+•	Advanced Optical Imaging: Using various microscopic methods to visualize brain activity in real-time.  
+•	Computer Modeling: Building simulations to make sense of complex brain dynamics.  
+Our research mainly focuses on transgenic mice, but we’re also part of a broader network that studies human brain activity using intracranial EEG recordings. This connection allows us to bridge insights from basic science to clinical applications.  
 
-III.  Can anesthetics be tailored to help sleep disorders or aid in recovery from sleep disturbances caused by medical conditions?
+## Our Main Research Areas
 
-We delve into the electrophysiological signatures of these brain states, leveraging cutting-edge imaging and recording techniques to uncover how brain activity evolves. This research deepens our understanding of anesthesia and sleep and has potential implications for improving therapies targeting neuropsychiatric conditions linked to sleep and consciousness.
+### 1.	Anesthesia, Consciousness, and Sleep: Unlocking Brain States  
+Have you ever wondered what happens to you when you fall asleep or undergo general anesthesia? Both states involve profound changes in brain activity, including the emergence of slow waves—large, rhythmic patterns of neural activity. These slow waves help reset the brain, restoring its balance and stability.  
+We’re investigating:  
+a.	How brain activity under anesthesia differs from or resembles sleep.
+b.	How these patterns help maintain healthy brain function.  
+Our goal is to explore whether anesthetics can be used to treat sleep disorders or help patients recover from sleep disturbances caused by illness or stress.  
 
-## Epilepsy and Neural Network Dynamics: Understanding and Intervening
-
-Epilepsy offers a unique lens through which to study how neural networks change and adapt—or fail to adapt—over time. Building on inherited projects and longstanding collaborations, our lab investigates the progression of neocortical network activity during epileptogenesis, the process by which a brain becomes susceptible to recurring seizures.
-
-Some of the key questions we aim to answer include:
-
-I. How do neocortical neural activity patterns, connectivity, and information processing evolve during the onset of epilepsy?
-
-II. What mechanisms contribute to the transition from normal brain function to a state of chronic seizures?
-
-We use kindling models to induce and study neocortical epileptic activity in animal brains. Kindling allows us to gradually increase the brain's susceptibility to seizures, providing a controlled way to examine changes in network dynamics. Our work includes testing innovative therapeutic approaches, including pharmacological interventions and electrophysiological techniques, to halt or reverse the progression of epilepsy.
-
-By integrating our studies of brain states and network dynamics, the Liou Lab seeks to contribute to understanding brain function and dysfunction. Through our research, we aim to open new avenues for treating complex neurological and psychiatric conditions, from sleep disorders to epilepsy.
-
-## Collaborations
-
-Our lab benefits from a rich network of collaborations, which enhances our access to cutting-edge research tools and innovative ideas. Our active collaborators include (alphabetical order): 
-* Hui Fang (https://sites.dartmouth.edu/fang-group/) – Our partnership focuses on designing, developing, and applying transparent electrode arrays in neuroscience. This collaboration involves developing novel optically compatible electrode technologies to enhance neural recording and stimulation techniques (https://vivo.weill.cornell.edu/display/grant-0000054680). 
-* Brian Gill (https://www.neurosurgery.columbia.edu/profile/brian-j-gill-md): Our ongoing project examines how epileptic activity arises in brain tissues infiltrated by glioma cells. This collaboration focuses on understanding the interactions between glioma cells and inhibitory neurons in the brain (https://vivo.weill.cornell.edu/display/grant-0000061838). 
-* Theodore Schwartz (https://www.theodorehschwartzmd.com/) – We work together to understand how epileptic networks form and evolve. This project aims to understand how the excitatory and inhibitory balance evolves throughout the kindling process. 
-* Elliot Smith (https://medicine.utah.edu/faculty/elliot-h-smith) – We are engaged in a human intracranial EEG project that explores anesthetic-associated slow waves and epilepsy. We aim to understand how mesoscopic brain activity controls information flow across various regions of the brain. 
-* Alipasha Vaziri (https://vaziri.rockefeller.edu/): We collaborate on applying customized optical approaches to investigate consciousness and sleep-associated neuroscience topics. This collaboration involves using advanced optical systems to explore neural dynamics and cortical states (https://vivo.weill.cornell.edu/display/grant-0000054680).
+### 2.	Epilepsy and Neural Network Dynamics: A New Frontier  
+Epilepsy is a condition where the brain’s normal activity becomes disrupted, leading to seizures. At the Liou Lab, we study how the brain’s neural networks change during the onset of epilepsy—a process called epileptogenesis.  
+We’re asking questions like:   
+a.	How do brain cells and networks change as epilepsy develops?  
+b.	Can we intervene early to stop or slow the process?  
+To answer these, we use animal models to simulate the progression of epilepsy and test new therapies, including using anesthetics to adjust how brain cells learn and connect. Our work aims to develop better treatments for epilepsy and provide hope to the millions of people living with this condition. 
+   
+# Join Us on This Exciting Journey   
+The Liou Lab sits at the intersection of biology, engineering, and neuroscience. Whether you’re curious about the brain, passionate about solving medical mysteries, or just excited to learn something new, we invite you to follow our discoveries and explore the fascinating world of anesthesia and brain science with us.  
 
 
-## Join Us on This Exciting Journey
-
-The Liou Lab sits at the intersection of biology, engineering, and neuroscience. Whether you’re curious about the brain, passionate about solving medical mysteries, or just excited to learn something new, we invite you to follow our discoveries and explore the fascinating world of anesthesia and brain science with us.
