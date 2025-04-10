@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-# Welcome to the Liou Lab: Exploring the Frontiers of Brain Activity!  
 
 At the Liou Lab, we’re passionate about exploring how anesthesia affects the brain. Our ultimate goal? To uncover new ways to use anesthetics in diagnosing and treating conditions like sleep disorders, epilepsy, and other neuropsychiatric challenges.  
 
