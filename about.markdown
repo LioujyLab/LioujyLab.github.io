@@ -20,16 +20,20 @@ Our research mainly focuses on transgenic mice, but we’re also part of a broad
 
 ### 1.	Anesthesia, Consciousness, and Sleep: Unlocking Brain States  
 Have you ever wondered what happens to you when you fall asleep or undergo general anesthesia? Both states involve profound changes in brain activity, including the emergence of slow waves—large, rhythmic patterns of neural activity. These slow waves help reset the brain, restoring its balance and stability.  
+  
 We’re investigating:  
-a.	How brain activity under anesthesia differs from or resembles sleep.
+a.	How brain activity under anesthesia differs from or resembles sleep.  
 b.	How these patterns help maintain healthy brain function.  
+  
 Our goal is to explore whether anesthetics can be used to treat sleep disorders or help patients recover from sleep disturbances caused by illness or stress.  
 
 ### 2.	Epilepsy and Neural Network Dynamics: A New Frontier  
 Epilepsy is a condition where the brain’s normal activity becomes disrupted, leading to seizures. At the Liou Lab, we study how the brain’s neural networks change during the onset of epilepsy—a process called epileptogenesis.  
+  
 We’re asking questions like:   
 a.	How do brain cells and networks change as epilepsy develops?  
 b.	Can we intervene early to stop or slow the process?  
+  
 To answer these, we use animal models to simulate the progression of epilepsy and test new therapies, including using anesthetics to adjust how brain cells learn and connect. Our work aims to develop better treatments for epilepsy and provide hope to the millions of people living with this condition. 
    
 # Join Us on This Exciting Journey   
