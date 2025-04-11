@@ -13,8 +13,8 @@ We concluded the visit with a group dinner, where we continued our conversations
 
 We sincerely thank Dr. Schevon for her visit and valuable feedback, and we look forward to continued interactions in the future!  
 
-![Lab Image](jpgs/p-20250410-lab.jpeg)  
-![Lab Image](jpgs/p-20250410-dinner.jpeg)  
+![Lab Image](/jpgs/p-20250410-lab.jpeg)  
+![Lab Image](/jpgs/p-20250410-dinner.jpeg)  
 
 
 
