@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Visit from Dr. Catherine A. Schevon"
-date:   2024-12-19 14:23:43 -0500
-categories: Welcome
+date:   2025-04-10 15:00:00 -0500
+categories: Visiting
 ---
 We were delighted to host Dr. Catherine A. Schevon from Columbia University for a visit to our lab. Dr. Schevon is a distinguished expert in epilepsy and neurophysiology, and it was a pleasure to share our recent progress and engage in scientific exchange.  
 
@@ -12,6 +12,8 @@ We concluded the visit with a group dinner, where we continued our conversations
 
 We sincerely thank Dr. Schevon for her visit and valuable feedback, and we look forward to continued interactions in the future!  
 
+![Lab Image](jpgs/posts/20250410-lab.jpeg)  
+![Lab Image](jpgs/posts/20250410-dinner.jpeg)  
 
 
 
